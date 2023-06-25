@@ -17,9 +17,11 @@ For a full list of publications, please refer to my [Google Scholar Profile](htt
 **Selected Publications**
 ======
   
-1.Federated Self-Supervised Learning for Video Understanding. (**ECCV-2022**) <br> 
-[[Preprint](https://arxiv.org/abs/2207.01975)] [[code](https://github.com/yasar-rehman/FEDVSSL)] [[Supplementary](https://github.com/yasar-rehman/yasar/ECCV2022_SSL_FL_for_video_supplementry.pdf)]  <br>
-**Yasar Abbas Ur Rehman**, Yan Gao, JiaJun Shen, Pedro Porto Buarque de Gusmao, Nicholas Lane 
+1.Federated Self-Supervised Learning for Video Understanding.<br>
+<u>*Yasar Abbas Ur Rehman*</u>, Yan Gao, JiaJun Shen, Pedro Porto Buarque de Gusmao, Nicholas Lane
+**ECCV-2022** 
+[[Preprint](https://arxiv.org/abs/2207.01975)] [[blog](https://flower.dev/blog/2023-04-05-federated-learning-with-self-supervision/)] [[Highlights](https://www.youtube.com/watch?v=ZLqst0lVte8&list=PLNG4feLHqCWni5zfOBaZNtaPlCce0OnJ6&index=8)] [[code](https://github.com/yasar-rehman/FEDVSSL)] [[Supplementary](https://github.com/yasar-rehman/yasar/ECCV2022_SSL_FL_for_video_supplementry.pdf)] <br>
+ 
 
 
 2.What Should Be Equivariant in Self-Supervised Learning? (**CVPR-2022**) <br>
