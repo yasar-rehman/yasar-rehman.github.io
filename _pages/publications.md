@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on my [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=hDKFeWEAAAAJ).
+For a full list of publications, please refer to my [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=hDKFeWEAAAAJ).
 
 
 {% include base_path %}
@@ -14,7 +14,7 @@ You can also find my articles on my [Google Scholar Profile](https://scholar.goo
   {% include archive-single.html %}
 {% endfor %}
 
-**Journal and Conferences**
+**Selected Publications**
 ======
   
 1.Federated Self-Supervised Learning for Video Understanding. (**ECCV-2022**) <br> 
@@ -27,29 +27,22 @@ You can also find my articles on my [Google Scholar Profile](https://scholar.goo
 Yuyang Xie, Jianhong Wen, Kin Wai Lau, **Yasar Abbas Ur Rehman**, Jiajun Shen <br>
 
 
-3.VCGAN: video colorization with hybrid generative adversarial network (**IEEE Transactions on Multimedia, 2021**).<br> 
+3.VCGAN: video colorization with hybrid generative adversarial network (**IEEE TMM-2021**).<br> 
 [[preprint](https://arxiv.org/pdf/2104.12357)] [[Code](https://github.com/zhaoyuzhi/VCGAN)] <br>
 Yuzhi Zhao, Lai-Man Po, Wing-Yin Yu, **Yasar Abbas Ur Rehman**, Mengyang Liu, Yujia Zhang, Weifeng Ou <br>
 
-4.SCGAN: saliency map-guided colorization with generative adversarial network. (**IEEE Transactions on Circuits and Systems for Video Technology**) <br>
+4.SCGAN: saliency map-guided colorization with generative adversarial network. (**IEEE TCSVT-2020**) <br>
 [[Preprint](https://arxiv.org/pdf/2011.11377.pdf), [Code]("https://github.com/zhaoyuzhi/Semantic-Colorization-GAN)] <br>
 Yuzhi and Po, Lai-Man and Cheung, Kwok-Wai and Yu, Wing-Yin and **Yasar Abbas Ur Rehman** <br>
-
-5.ASNet: Auto-augmented siamese neural network for action recognition. (Sensors,201) <br>
-[[Paper](https://www.mdpi.com/1424-8220/21/14/4720)] <br>
-Y Zhang, LM Po, J Xiong, YAU Rehman, KW Cheung
 
 6.Fusion loss and inter-class data augmentation for deep finger vein feature learning. (**ESWA-2021**) <br>
 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417421000257)] [[Code](https://github.com/WeifengOu/FusionAug)] <br>
 WF Ou, LM Po, C Zhou, **Yasar Abbas Ur Rehman**, PF Xian, YJ Zhang <br>
 
-7.LinCos-softmax: Learning angle-discriminative face representations with linearity-enhanced cosine logits. (*IEEE Access, 2020*)<br>
+7.LinCos-softmax: Learning angle-discriminative face representations with linearity-enhanced cosine logits. (*IEEE Access-2020*)<br>
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9116942)]
 Wei-Feng Ou, Lai-Man Po, Chang Zhou, Yu-Jia Zhang, Li-Tong Feng, **Yasar Abbas Ur Rehman**, Yu-Zhi Zhao
 
-8.Data-level information enhancement: Motion-patch-based Siamese Convolutional Neural Networks for human activity recognition in videos (**ESWA,2020**) <br>
-[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417420300294)] <br>
-Yujia Zhang, Lai Man Po, Mengyang Liu, **Yasar Abbas Ur Rehman**, Weifeng Ou, Yuzhi Zhao
 
 9.SLNet: Stereo face liveness detection via dynamic disparity-maps and convolutional neural network (**ESWA 2020**)<br>
 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417419307195)] [[Code](https://github.com/yasar-rehman/SLNET)]
@@ -58,9 +51,16 @@ Yujia Zhang, Lai Man Po, Mengyang Liu, **Yasar Abbas Ur Rehman**, Weifeng Ou, Yu
 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0262885619304512)] [[Code](https://github.com/yasar-rehman/Perturbing-CNNs)] <br>
 **Yasar Abbas Ur Rehman**, Lai-Man Po, Jukka Komulainen <br>
 
-11. Perturbing convolutional feature maps with histogram of oriented gradients for face liveness detection. (**CISIS, 2019**)
-    [[Preprint](https://www.researchgate.net/profile/Yasar-Rehman/publication/337695932_Enhancing_deep_discriminative_feature_maps_via_perturbation_for_face_presentation_attack_detection/links/5e78800092851cf271a0c59a/Enhancing-deep-discriminative-feature-maps-via-perturbation-for-face-presentation-attack-detection.pdf)] [[Code](https://github.com/yasar-rehman/Perturbing-CNNs)] <br>
-**Yasar Abbas Ur Rehman**, Lai-Man Po, Mengyang Liu, Zijie Zou, Weifeng Ou
+10. LiveNet: Improving features generalization for face liveness detection using convolution neural networks. (**ESWA-2019**)<br>
+[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417418302811)][[Code](https://github.com/yasar-rehman/LiveNet)]<br>
+**Yasar Abbas Ur Rehman**, Lai Man Po, Mengyang Liu <br>
+
+12. Face liveness detection using convolutional-features fusion of real and deep network generated face images. (**JVCI-2019)<br>
+[[paper](https://www.sciencedirect.com/science/article/abs/pii/S1047320319300641)] <br>
+**Yasar Abbas Ur Rehman**, Lai-Man Po, Mengyang Liu, Zijie Zou, Weifeng Ou, Yuzhi Zhao <br>
+
+
+
 
     
 
