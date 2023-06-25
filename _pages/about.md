@@ -7,17 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Research Scientist in the TCL AI Lab at 
-			[TCL Research (Hong Kong)]("https://www.linkedin.com/company/tcl-corporate-research-hk-co-ltd/mycompany/")  where I work on Computer Vision, 
-			Machine Learning, and Deep Learning.  
-			I received my Ph.D. degree in electrical engineering 
-			from the [City University of Hong Kong]("https://www.cityu.edu.hk/"), in 2019. 
-			During my Ph.D. study, I worked under the supervision of [Dr.Lai-Man Po]("http://www.ee.cityu.edu.hk/~lmpo/") on 
-			Face Liveness detection using Deep Learning techniques. 
-			Prior to my Ph.D. degree, I worked in NuSyS Lab under the supervision of 
-			[Dr. Muhammad Tariq]("https://sites.google.com/a/nu.edu.pk/mtariq/home) on Wireless Multimedia Sensor Networks  (WMSN). I also 				worked 
-			as an Algorithm Specialist with [TCL Corporate Research (Hong Kong) co., Limited]("http://tclrd.com.hk/") before assuming
-			duties as a Research Scientist at the same center in 2021.
+I am a Research Scientist in the TCL AI Lab at [TCL Research, Hong Kong]("https://www.linkedin.com/company/tcl-corporate-research-hk-co-ltd/mycompany/")  where I work on Computer Vision, Machine Learning, and Deep Learning. I received my Ph.D. degree in electrical engineering from the [City University of Hong Kong]("https://www.cityu.edu.hk/"), in 2019. During my Ph.D. study, I worked under the supervision of [Dr.Lai-Man Po]("http://www.ee.cityu.edu.hk/~lmpo/") on Face Liveness detection using Deep Learning techniques. Prior to my Ph.D. degree, I worked in NuSyS Lab under the supervision of [Dr. Muhammad Tariq]("https://sites.google.com/a/nu.edu.pk/mtariq/home) on Wireless Multimedia Sensor Networks  (WMSN). I also worked as an Algorithm Specialist with [TCL Corporate Research (Hong Kong) co., Limited]("http://tclrd.com.hk/") before assuming duties as a Research Scientist at the same center in 2021.
 
 
 News 
