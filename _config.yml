@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yasar Abbas Ur Rehman"
   avatar           : "profile.png"
-  bio              : "Research Scientist <br> TCL AI LAB, TCL Research Hong Kong"
-  location         : "TCL Research Hong Kong"
+  bio              : "Research Scientist- AI/Machine Learning <br> Ph.D in Electrical Engineering (MIEEE)<br> TCL AI LAB, TCL Research Hong Kong"
+  location         : "Hong Kong"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=hDKFeWEAAAAJ"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yasar"
+  github           : "https://github.com/yasar-rehman"
   google_plus      :
   keybase          :
   instagram        :
