@@ -29,53 +29,31 @@ Yuyang Xie, Jianhong Wen, Kin Wai Lau, **Yasar Abbas Ur Rehman**, Jiajun Shen <b
 
 
 VCGAN: video colorization with hybrid generative adversarial network (**IEEE Transactions on Multimedia, 2021**).<br> 
-[[preprint](https://arxiv.org/pdf/2104.12357)] [[Code](https://github.com/zhaoyuzhi/VCGAN)]
+[[preprint](https://arxiv.org/pdf/2104.12357)] [[Code](https://github.com/zhaoyuzhi/VCGAN)] <br>
+Yuzhi Zhao, Lai-Man Po, Wing-Yin Yu, **Yasar Abbas Ur Rehman**, Mengyang Liu, Yujia Zhang, Weifeng Ou <br>
+
+SCGAN: saliency map-guided colorization with generative adversarial network. (**IEEE Transactions on Circuits and Systems for Video Technology**) <br>
+[[Preprint](https://arxiv.org/pdf/2011.11377.pdf), [Code]("https://github.com/zhaoyuzhi/Semantic-Colorization-GAN)] <br>
+Yuzhi and Po, Lai-Man and Cheung, Kwok-Wai and Yu, Wing-Yin and **Yasar Abbas Ur Rehman** <br>
+
+ASNet: Auto-augmented siamese neural network for action recognition. (Sensors,201) <br>
+[[Paper](https://www.mdpi.com/1424-8220/21/14/4720)] <br>
+Y Zhang, LM Po, J Xiong, YAU Rehman, KW Cheung
+
+Fusion loss and inter-class data augmentation for deep finger vein feature learning. (ESWA-2021) <br>
+[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417421000257)] [[Code](https://github.com/WeifengOu/FusionAug)]
+WF Ou, LM Po, C Zhou, **Yasar Abbas Ur Rehman**, PF Xian, YJ Zhang
+
+
+
+
+
+
 
 <!--
-        <div style="font-family: 'Serif', Times New Roman; font-size:16px;">
-        <p>Yuzhi Zhao, Lai-Man Po, Wing-Yin Yu, Yasar Abbas Ur Rehman, Mengyang Liu, Yujia Zhang, Weifeng Ou<br>
-         
-        </p>
-        <a ">[Preprint] </a>
-        <a ">[Code]</a> 
-        </div>
-        </div> 
-</div>
+        
 
-
-
-<div class="col-md-12 pull-right">
-    <div class="col-md-4 pull-left">
-		<div style="margin-top:5%;"> 
-		<img src="/yasar/images/representative_image.jpg" alt="" width="100%"> <br>
-		</div>
-	</div>
-    <div class="col-md-8 pull-right">
-		<div style="font-family: 'Serif', Times New Roman;"> 
-		<div style="font-family: 'Serif', Times New Roman; font-size:18px;">
-        <b>SCGAN: saliency map-guided colorization with generative adversarial network</b> <br>
-        </div>
-        <div style="font-family: 'Serif', Times New Roman; font-size:16px;">
-        <p>Zhao, Yuzhi and Po, Lai-Man and Cheung, Kwok-Wai and Yu, Wing-Yin and Rehman, Yasar Abbas Ur <br>
-           IEEE Transactions on Circuits and Systems for Video Technology
-        </p>
-        <a href="https://arxiv.org/pdf/2011.11377.pdf">[pdf] </a> 
-        <a href="https://github.com/zhaoyuzhi/Semantic-Colorization-GAN">[code]</a>
-        </div>
-        </div> 
-    </div>
-</div>
-
-<div class="col-md-12 pull-right">
-	<div class="col-md-4 pull-left">
-		<div style="margin-top:5%;"> 
-		<img src="/yasar/images/face-pad.jpg" alt="" width="100%"> 
-		</div>
-	</div>
-	<div class="col-md-8 pull-right">
-		<div style="font-family: 'Serif', Times New Roman;"> 
-		<div style="font-family: 'Serif', Times New Roman; font-size:18px;"> 
-		<b>Face Anti-Spoofing via Convolutional Neural Networks </b> 
+		<b> </b> 
 		</div>
 		<b> Yasar Abbas Ur Rehman </b>, Po Lai Man <br>
         <a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417418302811">[ESWA,2018]</a>
