@@ -25,6 +25,6 @@ News
 
 Reviewer
 ======
-1. **Journals:** IEEE TCSVT, IEEE Access, ESWA, JVCI, SPIG
+1. **Journals:** IEEE TCSVT, IEEE Access, ESWA, JVCI, SPIC
 2. **Conferences:** IEEE ICET, IEEE INMIC
 
