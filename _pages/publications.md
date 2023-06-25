@@ -18,15 +18,18 @@ author_profile: true
 **Journal**
 ======
   
-Federated Self-Supervised Learning for Video Understanding. (ECCV-2022) [Preprint](https://arxiv.org/abs/2207.01975) [code](https://github.com/yasar-rehman/FEDVSSL) [Supplementary](https://github.com/yasar-rehman/yasar/ECCV2022_SSL_FL_for_video_supplementry.pdf)  <br>
+Federated Self-Supervised Learning for Video Understanding. (**ECCV-2022**) <br> 
+[[Preprint](https://arxiv.org/abs/2207.01975)] [[code](https://github.com/yasar-rehman/FEDVSSL)] [[Supplementary](https://github.com/yasar-rehman/yasar/ECCV2022_SSL_FL_for_video_supplementry.pdf)]  <br>
 **Yasar Abbas Ur Rehman**, Yan Gao, JiaJun Shen, Pedro Porto Buarque de Gusmao, Nicholas Lane 
 
 
-What Should Be Equivariant in Self-Supervised Learning? (CVPR-2022) [Preprint](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Xie_What_Should_Be_Equivariant_in_Self-Supervised_Learning_CVPRW_2022_paper.pdf) <br> 
+What Should Be Equivariant in Self-Supervised Learning? (**CVPR-2022**) <br>
+[[Preprint](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Xie_What_Should_Be_Equivariant_in_Self-Supervised_Learning_CVPRW_2022_paper.pdf)] <br> 
 Yuyang Xie, Jianhong Wen, Kin Wai Lau, **Yasar Abbas Ur Rehman**, Jiajun Shen <br>
 
 
-VCGAN: video colorization with hybrid generative adversarial network (IEEE Transactions on Multimedia, 2021). [preprint](href="https://arxiv.org/pdf/2104.12357) [Code](href="https://github.com/zhaoyuzhi/VCGAN)
+VCGAN: video colorization with hybrid generative adversarial network (**IEEE Transactions on Multimedia, 2021**).<br> 
+[[preprint](https://arxiv.org/pdf/2104.12357)] [[Code](https://github.com/zhaoyuzhi/VCGAN)]
 
 <!--
         <div style="font-family: 'Serif', Times New Roman; font-size:16px;">
