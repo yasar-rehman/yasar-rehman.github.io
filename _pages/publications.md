@@ -17,63 +17,64 @@ For a full list of publications, please refer to my [Google Scholar Profile](htt
 **Selected Publications**
 ======
   
-1.Federated Self-Supervised Learning for Video Understanding.<br>
+Federated Self-Supervised Learning for Video Understanding.<br>
 <u>Yasar Abbas Ur Rehman</u>, Yan Gao, JiaJun Shen, Pedro Porto Buarque de Gusmao, Nicholas Lane <br>
 **ECCV-2022** <br>
 [[Preprint](https://arxiv.org/abs/2207.01975)] [[blog](https://flower.dev/blog/2023-04-05-federated-learning-with-self-supervision/)] [[Highlights](https://www.youtube.com/watch?v=ZLqst0lVte8&list=PLNG4feLHqCWni5zfOBaZNtaPlCce0OnJ6&index=8)] [[code](https://github.com/yasar-rehman/FEDVSSL)] [[Supplementary](https://github.com/yasar-rehman/yasar/ECCV2022_SSL_FL_for_video_supplementry.pdf)] <br>
  
 
 
-2.What Should Be Equivariant in Self-Supervised Learning? (**CVPR-2022**) <br>
+What Should Be Equivariant in Self-Supervised Learning? (**CVPR-2022**) <br>
 Yuyang Xie, Jianhong Wen, Kin Wai Lau, <u>Yasar Abbas Ur Rehman</u>, Jiajun Shen <br>
 [[Preprint](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Xie_What_Should_Be_Equivariant_in_Self-Supervised_Learning_CVPRW_2022_paper.pdf)] <br> 
 
 
 
-3.VCGAN: video colorization with hybrid generative adversarial network.<br>
+VCGAN: video colorization with hybrid generative adversarial network.<br>
 Yuzhi Zhao, Lai-Man Po, Wing-Yin Yu, **Yasar Abbas Ur Rehman**, Mengyang Liu, Yujia Zhang, Weifeng Ou <br>
 **IEEE TMM-2021** <br>
 [[preprint](https://arxiv.org/pdf/2104.12357)] [[Code](https://github.com/zhaoyuzhi/VCGAN)] <br>
 
 
-4.SCGAN: saliency map-guided colorization with generative adversarial network. <br>
+SCGAN: saliency map-guided colorization with generative adversarial network. <br>
 Yuzhi and Po, Lai-Man and Cheung, Kwok-Wai and Yu, Wing-Yin and **Yasar Abbas Ur Rehman** <br>
 **IEEE TCSVT-2020** <br>
 [[Preprint](https://arxiv.org/pdf/2011.11377.pdf), [Code]("https://github.com/zhaoyuzhi/Semantic-Colorization-GAN)] <br>
 
 
-6.Fusion loss and inter-class data augmentation for deep finger vein feature learning. <br>
+Fusion loss and inter-class data augmentation for deep finger vein feature learning. <br>
 WF Ou, LM Po, C Zhou, **Yasar Abbas Ur Rehman**, PF Xian, YJ Zhang <br>
 **ESWA-2021** <br>
 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417421000257)] [[Code](https://github.com/WeifengOu/FusionAug)] <br>
 
 
 
-7.LinCos-softmax: Learning angle-discriminative face representations with linearity-enhanced cosine logits. <br>
+LinCos-softmax: Learning angle-discriminative face representations with linearity-enhanced cosine logits. <br>
 Wei-Feng Ou, Lai-Man Po, Chang Zhou, Yu-Jia Zhang, Li-Tong Feng, **Yasar Abbas Ur Rehman**, Yu-Zhi Zhao<br>
 **IEEE Access-2020** <br>
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9116942)]
 
 
 
-9.SLNet: Stereo face liveness detection via dynamic disparity-maps and convolutional neural network ()<br>
+SLNet: Stereo face liveness detection via dynamic disparity-maps and convolutional neural network ()<br>
 **Yasar Abbas Ur Rehman**, LM Po, M Liu <br>
 **ESWA 2020** <br>
 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417419307195)] [[Code](https://github.com/yasar-rehman/SLNET)]
 
-10.Enhancing deep discriminative feature maps via perturbation for face presentation attack detection.<br>
+
+Enhancing deep discriminative feature maps via perturbation for face presentation attack detection.<br>
 **Yasar Abbas Ur Rehman**, Lai-Man Po, Jukka Komulainen <br>
 **IMVS-2020** <br>
 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0262885619304512)] [[Code](https://github.com/yasar-rehman/Perturbing-CNNs)] <br>
 
 
-10. LiveNet: Improving features generalization for face liveness detection using convolution neural networks. <br>
+LiveNet: Improving features generalization for face liveness detection using convolution neural networks. <br>
 **Yasar Abbas Ur Rehman**, Lai Man Po, Mengyang Liu <br>
 **ESWA-2019**<br>
 [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417418302811)][[Code](https://github.com/yasar-rehman/LiveNet)]<br>
 
 
-12. Face liveness detection using convolutional-features fusion of real and deep network generated face images.<br>
+Face liveness detection using convolutional-features fusion of real and deep network generated face images.<br>
 **Yasar Abbas Ur Rehman**, Lai-Man Po, Mengyang Liu, Zijie Zou, Weifeng Ou, Yuzhi Zhao <br>
 **JVCI-2019** <br>
 [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1047320319300641)] <br>
