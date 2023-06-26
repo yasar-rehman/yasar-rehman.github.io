@@ -16,8 +16,9 @@ For a full list of publications, please refer to my [Google Scholar Profile](htt
 
 **Selected Publications**
 ======
-
-<img style="float:left" src="../images/FVSSL.jpg"  align="left" width="150px" height="100px" margin-right=10em> 
+<p float="left">
+<img src="../images/FVSSL.jpg"  align="left" width="150px" height="100px" margin-right=10em> 
+</p>
 
 Federated Self-Supervised Learning for Video Understanding.<br>
 **Yasar Abbas Ur Rehman**, Yan Gao, JiaJun Shen, Pedro Porto Buarque de Gusmao, Nicholas Lane <br>
