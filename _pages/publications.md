@@ -17,19 +17,18 @@ For a full list of publications, please refer to my [Google Scholar Profile](htt
 
 **Selected Publications**
 ======
-<div class="row pub-entry">
-    <div class="col-xs-3 text-center">
+<div class="col-md-12 pull-right">
+    <div class="col-md-4 pull-left>
       <a href="https://imagebind.metademolab.com/"> <img src="../images/FVSSL.jpg"  align="left" width="200px" /> </a>
     </div>
-    <div class="col-xs-9">
-      <div class="pub-title">
+    <div class="col-md-8 pull-right">
      	Federated Self-Supervised Learning for Video Understanding.<br>
 	**Yasar Abbas Ur Rehman**, Yan Gao, JiaJun Shen, Pedro Porto Buarque de Gusmao, Nicholas Lane <br>
 	ECCV-2022 <br>
 	<a href="https://arxiv.org/abs/2207.01975"> [Preprint] </a>
-      </div>
     </div>
 </div>
+
 <!--
 	[[blog](https://flower.dev/blog/2023-04-05-federated-learning-with-self-supervision/)] 
 	[[Highlights](https://www.youtube.com/watch?v=ZLqst0lVte8&list=PLNG4feLHqCWni5zfOBaZNtaPlCce0OnJ6&index=8)] 
