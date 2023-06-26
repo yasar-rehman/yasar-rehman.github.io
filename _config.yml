@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yasar Abbas Ur Rehman"
-  avatar           : "profile.png"
+  avatar           : "./images/my_profile.jpg"
   bio              : "Research Scientist- AI/Machine Learning <br> Ph.D in Electrical Engineering (MIEEE)<br> TCL AI LAB, TCL Research Hong Kong"
   location         : "Hong Kong"
   employer         :
