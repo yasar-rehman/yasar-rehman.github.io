@@ -16,7 +16,8 @@ Deep Learning and Computer Vision, Federated Learning, Video Understanding, Comp
 
 News 
 ====== 
-1. **[2022]** A short highlight on using federated learning with self-supervision for video understanding is now available on the [Flower Blogs](https://flower.dev/blog/2023-04-05-federated-learning-with-self-supervision)
+1.**[2023]** Our solution got first place award in [EPIC-SOUNDS Audio-Based Interaction Recognition](https://codalab.lisn.upsaclay.fr/competitions/9729#results).
+1. **[2023]** A short highlight on using federated learning with self-supervision for video understanding is now available on the [Flower Blogs](https://flower.dev/blog/2023-04-05-federated-learning-with-self-supervision)
 2. **[2022]**  Our paper titled [Federated Self-Supervised Learning for Video Understanding](https://arxiv.org/abs/2207.01975) has been accepted in ECCV-2022
 3. **[2022]** Video of my short talk on Federated Learning with Self-Supervision at the Flower Summit 2022 is now available on the [Flower YouTube Channel](https://www.youtube.com/watch?v=ZLqst0lVte8&t=212s)
 4. **[2022]** A paper is accepted in [L3D-IVU - CVPR2022](href=https://sites.google.com/view/l3d-ivu/)
