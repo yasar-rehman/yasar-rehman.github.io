@@ -31,6 +31,7 @@ Federated Self-Supervised Learning for Video Understanding.<br>
 <br clear="left"/> 
 
 
+<img style="float: left" src="../images/CVPR2022.jpg"  align="left" width="200px" height="100px" margin-right=10em> 
 
 What Should Be Equivariant in Self-Supervised Learning? <br>
 Yuyang Xie, Jianhong Wen, Kin Wai Lau, **Yasar Abbas Ur Rehman**, Jiajun Shen <br>
