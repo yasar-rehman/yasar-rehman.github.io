@@ -19,21 +19,22 @@ For a full list of publications, please refer to my [Google Scholar Profile](htt
 
 <img src="../images/FVSSL.jpg" style="float:left" align="left" width="150px" height="100px">
 
-<!-- <p align="left-justify"> -->
 Federated Self-Supervised Learning for Video Understanding.<br>
 **Yasar Abbas Ur Rehman**, Yan Gao, JiaJun Shen, Pedro Porto Buarque de Gusmao, Nicholas Lane <br>
 **ECCV-2022** <br>
 [[Preprint](https://arxiv.org/abs/2207.01975)] [[blog](https://flower.dev/blog/2023-04-05-federated-learning-with-self-supervision/)] [[Highlights](https://www.youtube.com/watch?v=ZLqst0lVte8&list=PLNG4feLHqCWni5zfOBaZNtaPlCce0OnJ6&index=8)] [[code](https://github.com/yasar-rehman/FEDVSSL)] [[Supplementary](https://github.com/yasar-rehman/yasar/ECCV2022_SSL_FL_for_video_supplementry.pdf)] <br>
-<!-- </p> -->
+
 <br clear="left"/>
-<!--- --->
+
 
 What Should Be Equivariant in Self-Supervised Learning? <br>
 Yuyang Xie, Jianhong Wen, Kin Wai Lau, **Yasar Abbas Ur Rehman**, Jiajun Shen <br>
 **CVPR-2022** <br>
 [[Preprint](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Xie_What_Should_Be_Equivariant_in_Self-Supervised_Learning_CVPRW_2022_paper.pdf)] <br> 
 
-SLNet: Stereo face liveness detection via dynamic disparity-maps and convolutional neural network ()<br>
+<img src="../images/image.png" style="float:left" align="left" width="150px" height="100px">
+
+SLNet: Stereo face liveness detection via dynamic disparity-maps and convolutional neural network<br>
 **Yasar Abbas Ur Rehman**, LM Po, M Liu <br>
 **ESWA 2020** <br>
 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417419307195)] [[Code](https://github.com/yasar-rehman/SLNET)]
