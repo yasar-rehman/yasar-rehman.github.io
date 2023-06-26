@@ -38,39 +38,46 @@ SLNet: Stereo face liveness detection via dynamic disparity-maps and convolution
 **Yasar Abbas Ur Rehman**, LM Po, M Liu <br>
 **ESWA 2020** <br>
 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417419307195)] [[Code](https://github.com/yasar-rehman/SLNET)]
+<br clear="left"/>
 
 
+<img src="../images/paper3.png" style="float:left" align="left" width="150px" height="100px">
 Enhancing deep discriminative feature maps via perturbation for face presentation attack detection.<br>
 **Yasar Abbas Ur Rehman**, Lai-Man Po, Jukka Komulainen <br>
 **IMVS-2020** <br>
 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0262885619304512)] [[Code](https://github.com/yasar-rehman/Perturbing-CNNs)] <br>
+<br clear="left"/>
 
 
+<img src="../images/cnn_algo1.jpg" style="float:left" align="left" width="150px" height="100px">
 LiveNet: Improving features generalization for face liveness detection using convolution neural networks. <br>
 **Yasar Abbas Ur Rehman**, Lai Man Po, Mengyang Liu <br>
 **ESWA-2019**<br>
 [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417418302811)][[Code](https://github.com/yasar-rehman/LiveNet)]<br>
+<br clear="left"/>
 
-
+<img src="../images/paper2.png" style="float:left" align="left" width="150px" height="100px">
 Face liveness detection using convolutional-features fusion of real and deep network generated face images.<br>
 **Yasar Abbas Ur Rehman**, Lai-Man Po, Mengyang Liu, Zijie Zou, Weifeng Ou, Yuzhi Zhao <br>
 **JVCI-2019** <br>
 [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1047320319300641)] <br>
+<br clear="left"/>
 
 
 
-
+<img src="../images/IEEETMM2021.jpeg" style="float:left" align="left" width="150px" height="100px">
 VCGAN: video colorization with hybrid generative adversarial network.<br>
 Yuzhi Zhao, Lai-Man Po, Wing-Yin Yu, **Yasar Abbas Ur Rehman**, Mengyang Liu, Yujia Zhang, Weifeng Ou <br>
 **IEEE TMM-2021** <br>
 [[preprint](https://arxiv.org/pdf/2104.12357)] [[Code](https://github.com/zhaoyuzhi/VCGAN)] <br>
+<br clear="left"/>
 
-
+<img src="../images/representative_image.jpg" style="float:left" align="left" width="150px" height="100px">
 SCGAN: saliency map-guided colorization with generative adversarial network. <br>
 Yuzhi and Po, Lai-Man and Cheung, Kwok-Wai and Yu, Wing-Yin and **Yasar Abbas Ur Rehman** <br>
 **IEEE TCSVT-2020** <br>
 [[Preprint](https://arxiv.org/pdf/2011.11377.pdf), [Code]("https://github.com/zhaoyuzhi/Semantic-Colorization-GAN)] <br>
-
+<br clear="left"/>
 
 Fusion loss and inter-class data augmentation for deep finger vein feature learning. <br>
 WF Ou, LM Po, C Zhou, **Yasar Abbas Ur Rehman**, PF Xian, YJ Zhang <br>
