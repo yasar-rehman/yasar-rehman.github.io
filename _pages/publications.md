@@ -17,46 +17,6 @@ For a full list of publications, please refer to my [Google Scholar Profile](htt
 
 **Selected Publications**
 ======
-<div class="col-md-12 pull-right">
-    <div class="col-md-4 pull-left>
-      <a href="https://imagebind.metademolab.com/"> <img src="../images/FVSSL.jpg"  align="left" width="200px" /> </a>
-    </div>
-    <div class="col-md-8 pull-right">
-     	Federated Self-Supervised Learning for Video Understanding.<br>
-	**Yasar Abbas Ur Rehman**, Yan Gao, JiaJun Shen, Pedro Porto Buarque de Gusmao, Nicholas Lane <br>
-	ECCV-2022 <br>
-	<a href="https://arxiv.org/abs/2207.01975"> [Preprint] </a>
-    </div>
-</div>
-
-<!--
-	[[blog](https://flower.dev/blog/2023-04-05-federated-learning-with-self-supervision/)] 
-	[[Highlights](https://www.youtube.com/watch?v=ZLqst0lVte8&list=PLNG4feLHqCWni5zfOBaZNtaPlCce0OnJ6&index=8)] 
-	[[code](https://github.com/yasar-rehman/FEDVSSL)]
-	[[Supplementary](https://github.com/yasar-rehman/yasar/ECCV2022_SSL_FL_for_video_supplementry.pdf)] 
-      </div>
-      <div class="pub-authors">
-      Rohit Girdhar*, Alaaeldin El-Nouby*, Zhuang Liu, Mannat Singh, Kalyan Vasudev Alwala, Armand Joulin, <u>Ishan Misra*</u>
-      </div>
-      <div class="pub-conf">
-        CVPR 2023 <span style="color: #8d1515; font-weight:bold">(Highlighted paper)</span>
-      </div>
-      <div class="pub-links">
-        <a href="https://dl.fbaipublicfiles.com/imagebind/imagebind_final.pdf">[pdf]</a>
-        <a href="https://imagebind.metademolab.com/">[demo]</a>
-        <a href="https://ai.facebook.com/blog/imagebind-six-modalities-binding-ai/">[blog]</a>
-        <a href="https://github.com/facebookresearch/ImageBind">[code]</a>
-        <a href="projects/imagebind_bib.txt">[bib]</a>
-        <a href="https://www.engadget.com/metas-open-source-imagebind-ai-aims-to-mimic-human-perception-181500560.html">[Engadget]</a>
-        <a href="https://www.theverge.com/2023/5/9/23716558/meta-imagebind-open-source-multisensory-modal-ai-model-research">[The Verge]</a>
-      </div>
-    </div>
-</div>
--->
-
-
-
-
 
 <img src="../images/FVSSL.jpg"  align="left" width="200px" height="100px" margin-right=10em> | Federated Self-Supervised Learning for Video Understanding.<br>
 **Yasar Abbas Ur Rehman**, Yan Gao, JiaJun Shen, Pedro Porto Buarque de Gusmao, Nicholas Lane <br>
