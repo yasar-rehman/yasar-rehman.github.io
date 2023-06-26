@@ -17,7 +17,7 @@ For a full list of publications, please refer to my [Google Scholar Profile](htt
 **Selected Publications**
 ======
 <p float="left">
-<img src="../images/FVSSL.jpg"  align="left" width="150px" height="100px" margin-right=10em> 
+<img src="../images/FVSSL.jpg"  align="left" width="200px" height="100px" margin-right=10em> 
 </p>
 
 Federated Self-Supervised Learning for Video Understanding.<br>
@@ -36,7 +36,7 @@ Yuyang Xie, Jianhong Wen, Kin Wai Lau, **Yasar Abbas Ur Rehman**, Jiajun Shen <b
 **CVPR-2022** <br>
 [[Preprint](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Xie_What_Should_Be_Equivariant_in_Self-Supervised_Learning_CVPRW_2022_paper.pdf)] <br> 
 
-<img src="../images/image.png" style="float:left" align="left" width="150px" height="100px" margin-right=15em>
+<img src="../images/image.png" style="float:left" align="left" width="200px" height="100px" margin-right=15em>
 
 SLNet: Stereo face liveness detection via dynamic disparity-maps and convolutional neural network<br>
 **Yasar Abbas Ur Rehman**, LM Po, M Liu <br>
@@ -45,7 +45,7 @@ SLNet: Stereo face liveness detection via dynamic disparity-maps and convolution
 <br clear="left"/>
 
 
-<img src="../images/paper3.png" style="float:left" align="left" width="150px" height="100px" margin-right=10em>
+<img src="../images/paper3.png" style="float:left" align="left" width="200px" height="100px" margin-right=10em>
 
 Enhancing deep discriminative feature maps via perturbation for face presentation attack detection.<br>
 **Yasar Abbas Ur Rehman**, Lai-Man Po, Jukka Komulainen <br>
@@ -54,7 +54,7 @@ Enhancing deep discriminative feature maps via perturbation for face presentatio
 <br clear="left"/>
 
 
-<img src="../images/cnn_algo1.jpg" style="float:left" align="left" width="150px" height="100px" margin-right=10em>
+<img src="../images/cnn_algo1.jpg" style="float:left" align="left" width="200px" height="100px" margin-right=10em>
 
 LiveNet: Improving features generalization for face liveness detection using convolution neural networks. <br>
 **Yasar Abbas Ur Rehman**, Lai Man Po, Mengyang Liu <br>
@@ -62,7 +62,7 @@ LiveNet: Improving features generalization for face liveness detection using con
 [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417418302811)][[Code](https://github.com/yasar-rehman/LiveNet)]<br>
 <br clear="left"/>
 
-<img src="../images/paper2.png" style="float:left" align="left" width="150px" height="100px" margin-right=10em>
+<img src="../images/paper2.png" style="float:left" align="left" width="200px" height="100px" margin-right=10em>
 
 Face liveness detection using convolutional-features fusion of real and deep network generated face images.<br>
 **Yasar Abbas Ur Rehman**, Lai-Man Po, Mengyang Liu, Zijie Zou, Weifeng Ou, Yuzhi Zhao <br>
@@ -72,7 +72,7 @@ Face liveness detection using convolutional-features fusion of real and deep net
 
 
 
-<img src="../images/IEEETMM2021.jpeg" style="float:left" align="left" width="150px" height="100px" margin-right=10em>
+<img src="../images/IEEETMM2021.jpeg" style="float:left" align="left" width="200px" height="100px" margin-right=10em>
 
 VCGAN: video colorization with hybrid generative adversarial network.<br>
 Yuzhi Zhao, Lai-Man Po, Wing-Yin Yu, **Yasar Abbas Ur Rehman**, Mengyang Liu, Yujia Zhang, Weifeng Ou <br>
@@ -80,7 +80,7 @@ Yuzhi Zhao, Lai-Man Po, Wing-Yin Yu, **Yasar Abbas Ur Rehman**, Mengyang Liu, Yu
 [[preprint](https://arxiv.org/pdf/2104.12357)] [[Code](https://github.com/zhaoyuzhi/VCGAN)] <br>
 <br clear="left"/>
 
-<img src="../images/representative_image.jpg" style="float:left" align="left" width="150px" height="100px" margin-right=10em>
+<img src="../images/representative_image.jpg" style="float:left" align="left" width="200px" height="100px" margin-right=10em>
 
 SCGAN: saliency map-guided colorization with generative adversarial network. <br>
 Yuzhi and Po, Lai-Man and Cheung, Kwok-Wai and Yu, Wing-Yin and **Yasar Abbas Ur Rehman** <br>
