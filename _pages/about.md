@@ -23,9 +23,8 @@ Collaborators
 
 News 
 ====== 
-
-1.**[2023]** Our paper titled L-DAWA: Layer-wise Divergence Aware Weight Aggregation in Federated Self-Supervised Visual Representation Learning has been accepted in ICCV-2023.
-2. **[2023]** Our solution got first place award in [EPIC-SOUNDS Audio-Based Interaction Recognition](https://codalab.lisn.upsaclay.fr/competitions/9729#results).
+1. **[2023]** Our paper titled L-DAWA: Layer-wise Divergence Aware Weight Aggregation in Federated Self-Supervised Visual Representation Learning has been accepted in ICCV-2023.
+2. **[2023]** Our solution got first place award in [EPIC-SOUNDS Audio-Based Interaction Recognition](https://codalab.lisn.upsaclay.fr/competitions/9729#results)
 3. **[2023]** A short highlight on using federated learning with self-supervision for video understanding is now available on the [Flower Blogs](https://flower.dev/blog/2023-04-05-federated-learning-with-self-supervision)
 4. **[2022]**  Our paper titled [Federated Self-Supervised Learning for Video Understanding](https://arxiv.org/abs/2207.01975) has been accepted in ECCV-2022
 5. **[2022]** Video of my short talk on Federated Learning with Self-Supervision at the Flower Summit 2022 is now available on the [Flower YouTube Channel](https://www.youtube.com/watch?v=ZLqst0lVte8&t=212s)
