@@ -16,9 +16,11 @@ Deep Learning and Computer Vision, Federated Learning, Video Understanding, Comp
 Collaborators
 =====
 [Nicholas Lane](http://niclane.org/) (Professor in the  Department of Computer Science and Technology at the University of Cambridge) <br>
+[Muhammad Tariq](https://sites.google.com/a/nu.edu.pk/mtariq/home) (Professor at FAST NUCES Islamabad) <br>
 [JiaJun Shen](https://scholar.google.com/citations?hl=en&user=qckHL1AAAAAJ&view_op=list_works&sortby=pubdate) (Current: Deep Mind) (Previous: Chief AI Scientist at TCL)<br> 
 [Pedro Porto Buarque de Gusmão](https://portobgusmao.com/) (Cambridge Machine Learning Systems Lab) <br>
 [Yan Gao](https://scholar.google.com/citations?hl=en&user=_im5GrcAAAAJ&view_op=list_works&sortby=pubdate) (University of Cambridge) <br>
+
 
 
 News 
