@@ -38,5 +38,5 @@ News
 Reviewer
 ======
 1. **Journals:** IEEE TCSVT, IEEE Access, ESWA, JVCI, SPIC
-2. **Conferences:** IEEE ICET, IEEE INMIC
+2. **Conferences:** IEEE CVPR-2024, IEEE ICET, IEEE INMIC
 
