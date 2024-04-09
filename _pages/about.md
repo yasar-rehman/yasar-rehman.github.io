@@ -39,6 +39,6 @@ News
 
 Reviewer
 ======
-1. **Journals:** IEEE TCSVT, IEEE Access, ESWA, JVCI, SPIC
-2. **Conferences:** IEEE CVPR-2024, IEEE ICET, IEEE INMIC
+1. **Journals:** IEEE TCSVT, IEEE Access, ESWA, JVCI, SPIC, IEEE TNNLS
+2. **Conferences:** IEEE CVPR-2024, IEEE ICET, IEEE INMIC, CVPR-FedVision (2023-2024)
 
