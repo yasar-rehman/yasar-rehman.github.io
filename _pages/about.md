@@ -13,6 +13,17 @@ Research Interests
 ======
 Deep Learning and Computer Vision, Federated Learning, Video Understanding, Computational Photography, Audio Understanding
 
+Available Positions
+======
+**Software Engineer (Intern)**
+
+We are looking for a Software Engineer (Intern) to work with us at TCL AI Lab (Hong Kong) on the project titled "How Smart Homes Perceive and Respond to Environmental Sound". As a Software Engineer (Intern), you will play a key role in front-end and back-end software components integration, developing user-friendly interfaces, and assisting the senior engineers in software deployment and testing.  This is an excellent opportunity to gain hands-on experience in a fast-paced environment and to work with cutting-edge technologies. The internship position is flexible and the duration can be extended based on satisfactory performance.  
+
+Requirements: The candidate should have hands-on experience with Python, JAVA, and C++. Knowledge of deep neural networks and their deployment on mobile and web platforms would be a plus. 
+
+Interested candidates are encouraged to submit their resumes at yasar@tcl.com. 
+
+<!--
 Collaborators
 =====
 [Nicholas Lane](http://niclane.org/) (Professor in the  Department of Computer Science and Technology at the University of Cambridge) <br>
@@ -20,7 +31,7 @@ Collaborators
 [JiaJun Shen](https://scholar.google.com/citations?hl=en&user=qckHL1AAAAAJ&view_op=list_works&sortby=pubdate) (Current: Deep Mind) (Previous: Chief AI Scientist at TCL)<br> 
 [Pedro Porto Buarque de Gusmão](https://portobgusmao.com/) (Cambridge Machine Learning Systems Lab) <br>
 [Yan Gao](https://scholar.google.com/citations?hl=en&user=_im5GrcAAAAJ&view_op=list_works&sortby=pubdate) (University of Cambridge) <br>
-
+-->
 
 
 News 
