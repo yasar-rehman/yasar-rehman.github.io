@@ -18,7 +18,7 @@ Available Positions
 **Software Engineer (Intern)**
 
 **Software Engineering Intern – Smart Homes at TCL**  
-TCL is seeking a motivated **Software Engineering Intern** to join our team and contribute to developing innovative smart home solutions. In this role, you’ll work on designing, testing, and optimizing software for IoT devices, cloud integration, and user-friendly interfaces. Candidates who are pursuing a degree in Computer Science, Software Engineering, or a related field, with proficiency in Python, Java, or C++, and a strong interest in IoT and smart home innovation are encouraged to apply. This is a hands-on opportunity to gain real-world experience in a fast-paced, innovative environment, with potential for future full-time opportunities. If you’re excited about shaping the future of smart homes, send your resume and a brief cover letter to **[yasar@tcl.com]**. 
+TCL is seeking a motivated **Software Engineering Intern** to join our team and contribute to developing innovative smart home solutions. In this role, you’ll work on designing, testing, and optimizing software for IoT devices, cloud integration, and user-friendly interfaces. Candidates who are pursuing a degree in Computer Science, Software Engineering, or a related field, with proficiency in Python, Java, or C++, and a strong interest in IoT and smart home innovation are encouraged to apply. This is a hands-on opportunity to gain real-world experience in a fast-paced, innovative environment, with potential for future full-time opportunities. If you’re excited about shaping the future of smart homes, send your resume to **[yasar@tcl.com]**. 
 
 
 
